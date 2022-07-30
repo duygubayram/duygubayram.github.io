@@ -7,4 +7,4 @@ gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
 
-gem 'the-plain'
+gem 'jekyll-remote-theme'
